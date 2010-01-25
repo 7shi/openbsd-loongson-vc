@@ -1,0 +1,7 @@
+Debug/
+Release/
+*.user
+.depend
+vers.c
+bsd
+*.o

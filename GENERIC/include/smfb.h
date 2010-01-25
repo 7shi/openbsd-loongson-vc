@@ -1,0 +1,1 @@
+#define	NSMFB	1
